@@ -1,7 +1,7 @@
 # Game Title
-## Author:
+## Author: Jacek Paździerkiewicz
 
-### Short description
+### This is snake game. 
 
 
 ### Technologies
